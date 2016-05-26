@@ -7,6 +7,7 @@
 #include <cmath>
 #include "tipos.h"
 
+hice mi rpimer cmmit
 class Salto
 {
 public:
